@@ -37,6 +37,9 @@ Event Attributes:
     * Details page for events.
     * End-users click attend on preferred event.
 
+* APIs
+    * List events filtered by start date and end date, sorted by the closest start date and time in the date range specified.
+
 # Task Deliverables
 1. Git repo has:
     * Code implementing the above features.
